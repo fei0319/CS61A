@@ -6,6 +6,7 @@
 .ok_storage.dir
 ok
 **/tests
+construct_check.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
