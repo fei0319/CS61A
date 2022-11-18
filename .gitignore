@@ -1,3 +1,12 @@
+# okpy
+*.ok
+.ok_history
+.ok_storage.bak
+.ok_storage.dat
+.ok_storage.dir
+ok
+**/tests
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
