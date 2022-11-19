@@ -7,6 +7,11 @@
 ok
 **/tests
 construct_check.py
+**/gui_files
+hog/calc.py
+hog/ucb.py
+hog/dice.py
+hog/hog_gui.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
