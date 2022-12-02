@@ -8,6 +8,7 @@
 .ok_storage.dat
 .ok_storage.dir
 .ok_messages
+.ok_storage.db
 ok
 **/tests
 
