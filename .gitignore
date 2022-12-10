@@ -10,15 +10,18 @@
 .ok_messages
 .ok_storage.db
 ok
-**/tests
 
 construct_check.py
+debug.py
+
+**/tests
 **/gui_files
+
+# hog
 hog/calc.py
 hog/ucb.py
 hog/dice.py
 hog/hog_gui.py
-debug.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
