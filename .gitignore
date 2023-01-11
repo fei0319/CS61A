@@ -23,6 +23,13 @@ hog/ucb.py
 hog/dice.py
 hog/hog_gui.py
 
+# cats
+cats/data
+cats/gui.py
+cats/images
+cats/ucb.py
+cats/utils.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
