@@ -29,6 +29,7 @@ cats/gui.py
 cats/images
 cats/ucb.py
 cats/utils.py
+cats/ex.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
