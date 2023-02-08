@@ -35,7 +35,6 @@ cats/ex.py
 lab08/car.py
 lab08/cardgame.py
 lab08/cards.py
-lab08/classes.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
