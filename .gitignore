@@ -1,4 +1,4 @@
-.scm
+*.scm
 
 # mac
 .DS_Store
