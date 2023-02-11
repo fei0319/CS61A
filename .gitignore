@@ -1,4 +1,5 @@
-*.scm
+# hw06
+hw06/*.scm
 
 # mac
 .DS_Store
