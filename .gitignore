@@ -1,3 +1,15 @@
+# ants
+ants/ants_gui.py
+ants/ants_plans.py
+ants/ants_strategies.py
+ants/ants_text.py
+ants/assets
+ants/graphics.py
+ants/img
+ants/tests
+ants/ucb.py
+ants/utils.py
+
 # hw06
 hw06/*.scm
 
