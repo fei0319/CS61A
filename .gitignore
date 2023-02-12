@@ -9,6 +9,7 @@ ants/img
 ants/tests
 ants/ucb.py
 ants/utils.py
+ants/ex.py
 
 # hw06
 hw06/*.scm
