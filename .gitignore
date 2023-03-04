@@ -3,7 +3,7 @@ lab11/buffer.py
 lab11/repl.py
 lab11/scheme
 lab11/tests
-lab11/util.py
+lab11/utils.py
 lab11/__pychache__
 
 *.swp
