@@ -1,3 +1,14 @@
+# scheme_stubbed
+scheme_stubbed/abstract_turtle
+scheme_stubbed/buffer.py
+scheme_stubbed/editor
+scheme_stubbed/images
+scheme_stubbed/mytests.rst
+scheme_stubbed/scheme_builtins.py
+scheme_stubbed/scheme_tokens.py
+scheme_stubbed/tests
+scheme_stubbed/ucb.py
+
 # hw07
 hw07/editor
 hw07/tests
